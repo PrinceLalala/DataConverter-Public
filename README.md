@@ -2,6 +2,7 @@
 
 Turn messy real-world bank statements into structured accounting-ready transaction data.
 
+
 ![Hero](assets/hero.png)
 
 ---
